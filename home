@@ -1,0 +1,35 @@
+<header id="header">
+  <img id="header-img" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png" alt="original trombones logo"></img>
+
+  <nav id="nav-bar">
+    <ul>
+    <li><a class="nav-link" href="#features">Features</a>
+      </li>
+      <li>
+        <a class="nav-link" href="#how it Works">How it Works</a>
+      </li>
+      <li>
+        <a class="nav-link" href="#pricing">Pricing</a>
+        </li>
+      </ul>
+    </nav>
+</header>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/7lMGDNbdI_A" id="video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<form id="form">
+        <input type="email" id="email" placeholder="Enter Your Email">
+          <input id="submit" type="submit" value="Submit" class="btn"
+        </form>
+        </form>
+   </form>
+
+
+
+<section id="features">
+  Features
+</section>
+<section id="How it Works">
+  How it Works
+</section>
+<section id="Pricing">
+  Pricing
+</section>
